@@ -8,7 +8,7 @@
       "lang": "en",
       "version": 1,
       "apk": "https://raw.githubusercontent.com/Icarus201/Manga/main/hentai20.apk",
-      "nsfw": true
+      "nsfw": 1
     }
   ]
 }
